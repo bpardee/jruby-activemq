@@ -2,3 +2,6 @@ pkg
 .idea
 .redcar
 Gemfile.lock
+bundle
+.bundle
+bin

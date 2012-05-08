@@ -12,4 +12,4 @@ Provides the necessary client jars for accessing an activemq server
 
 ## Usage:
 
-    require 'activemq'
+  require 'activemq'
